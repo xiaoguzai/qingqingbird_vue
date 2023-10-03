@@ -1,2 +1,2 @@
 # qingqingbird_vue
-青青bird第一阶段前端代码
+基于青青前后端分离项目前端代码
